@@ -37,7 +37,7 @@ Some environment variables for debugging or customization:
 * `CADNANO_DISCARD_UNSAVED`: Don't prompt the user to save unsaved changes; just exit.
 * `CADNANO_DEFAULT_DOCUMENT` On creation of the default document, open the named file (put a path to the file in the value of the environment variable) instead of a blank document.
 * `CADNANO_IGNORE_ENV_VARS_EXCEPT_FOR_ME`: Turn off other cadnano environment variables.
-
+s
 ## License
 
 This version of Cadnano2 is available under the MIT License.
